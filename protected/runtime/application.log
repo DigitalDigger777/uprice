@@ -1,0 +1,1146 @@
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319814.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319814.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319988.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319988.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319492.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319492.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319059.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319059.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319013.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319013.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318471.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318471.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318221.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318221.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318618.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318618.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318532.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318532.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319463.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319463.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361727380.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361727380.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361721264.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361721264.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392964.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392964.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392176.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392176.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361391191.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361391191.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361390742.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361390742.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1360779751.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1360779751.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361123190.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361123190.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361021854.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361021854.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361720459.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361720459.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361726791.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361726791.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361725938.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361725938.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:13:03 [error] [php] Undefined index: delivery_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:58)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/save
+2013/03/17 21:23:44 [error] [php] Undefined index: delivery_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:58)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/save
+2013/03/17 21:26:24 [error] [php] Undefined index: address (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:59)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/save
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362321256.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362321256.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362321745.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362321745.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320955.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320955.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320985.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320985.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320761.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320761.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320572.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320572.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319814.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319814.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319988.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319988.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319492.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319492.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319059.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319059.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319013.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319013.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318471.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318471.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318221.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318221.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318618.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318618.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318532.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318532.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319463.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319463.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361727380.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361727380.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361721264.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361721264.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392964.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392964.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392176.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392176.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361391191.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361391191.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361390742.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361390742.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1360779751.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1360779751.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361123190.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361123190.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361021854.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361021854.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361720459.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361720459.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361726791.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361726791.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361725938.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361725938.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:27:24 [error] [php] Undefined index: order_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:38)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/products/images/products/1361123190.jpg
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362321745.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362321745.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362321256.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362321256.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320985.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320985.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320572.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320572.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320955.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320955.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320761.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320761.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319814.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319814.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319988.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319988.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319492.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319492.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319059.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319059.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319013.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319013.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318471.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318471.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318221.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318221.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318618.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318618.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318532.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318532.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319463.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319463.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361727380.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361727380.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361721264.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361721264.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392964.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392964.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392176.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392176.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361391191.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361391191.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361390742.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361390742.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1360779751.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1360779751.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361123190.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361123190.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361021854.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361021854.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361720459.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361720459.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361726791.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361726791.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361725938.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361725938.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/productlist
+---
+2013/03/17 21:33:06 [error] [php] Undefined index: order_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:38)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/products/images/products/1362321256.jpg
+2013/03/17 21:35:15 [error] [php] Undefined index: order_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:38)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/products/images/products/1362321256.jpg
+2013/03/17 21:35:29 [error] [php] Undefined index: order_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:38)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/products/images/products/1362321256.jpg
+2013/03/17 21:38:46 [error] [php] Undefined index: order_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:38)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/products/images/products/1362321256.jpg
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362321745.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362321745.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320955.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320955.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362321256.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362321256.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320985.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320985.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320761.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320761.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319814.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319814.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362320572.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362320572.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319988.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319988.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319492.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319492.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319059.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319059.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319013.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319013.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318471.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318471.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318221.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318221.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318618.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318618.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362318532.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362318532.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1362319463.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1362319463.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361727380.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361727380.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361721264.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361721264.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392964.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392964.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361392176.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361392176.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361391191.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361391191.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361390742.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361390742.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1360779751.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1360779751.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361123190.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361123190.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361021854.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361021854.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361720459.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361720459.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361726791.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361726791.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:42:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/products/1361725938.jpg".' in C:\xampp\htdocs\uprice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('images/products...')
+#1 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/uprice/backend/images/products/1361725938.jpg
+HTTP_REFERER=http://localhost:8080/uprice/backend/product/index
+---
+2013/03/17 21:46:46 [error] [php] Undefined variable: ext (C:\xampp\htdocs\uprice\backend\protected\controllers\ProductController.php:201)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): ProductController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): ProductController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): ProductController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): ProductController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/product/uploadphoto
+2013/03/17 21:49:20 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 't2'. The SQL statement executed was: SELECT DISTINCT `t2`.*
+FROM `bb_products` `t1`
+JOIN `bb_category_product` `t3` ON t1.id=t3.product_id
+ORDER BY `t2`.`name`.
+2013/03/17 21:49:20 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 't2'' in C:\xampp\htdocs\uprice\framework\db\CDbCommand.php:541
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\xampp\htdocs\uprice\backend\protected\controllers\ProductController.php(253): CDbCommand->queryAll()
+#2 C:\xampp\htdocs\uprice\framework\web\actions\CInlineAction.php(49): ProductController->actionProductList()
+#3 C:\xampp\htdocs\uprice\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\uprice\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): CController->run('productlist')
+#12 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('product/product...')
+#13 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/uprice/backend/product/productlist
+---
+2013/03/17 21:50:14 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't4.name' in 'field list'. The SQL statement executed was: SELECT DISTINCT t1.*, group_concat(t3.name) category, t4.name brand
+FROM `bb_products` `t1`
+JOIN `bb_category_product` `t2` ON t1.id = t2.product_id
+JOIN `bb_categories` `t3` ON t2.category_id = t3.id
+WHERE 1
+GROUP BY `t1`.`id`
+ORDER BY `id` DESC.
+2013/03/17 21:50:14 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't4.name' in 'field list'' in C:\xampp\htdocs\uprice\framework\db\CDbCommand.php:541
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\xampp\htdocs\uprice\backend\protected\models\Product.php(54): CDbCommand->queryAll()
+#2 C:\xampp\htdocs\uprice\backend\protected\controllers\ProductController.php(232): Product::getProductList(0, 0, '', 0, '', Object(Currency))
+#3 C:\xampp\htdocs\uprice\framework\web\actions\CInlineAction.php(49): ProductController->actionProductList()
+#4 C:\xampp\htdocs\uprice\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\uprice\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): CController->run('productlist')
+#13 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController('product/product...')
+#14 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\uprice\backend\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/uprice/backend/product/productlist
+---
+2013/03/17 21:55:45 [error] [php] Undefined index: order_id (C:\xampp\htdocs\uprice\backend\protected\controllers\OrderController.php:38)
+Stack trace:
+#0 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(133): OrderController->runAction()
+#1 C:\xampp\htdocs\uprice\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\uprice\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\uprice\framework\web\filters\CInlineFilter.php(58): OrderController->filterAccessControl()
+#4 C:\xampp\htdocs\uprice\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\uprice\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\uprice\framework\web\CController.php(265): OrderController->runActionWithFilters()
+#7 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(282): OrderController->run()
+#8 C:\xampp\htdocs\uprice\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\uprice\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\uprice\backend\index.php(13): CWebApplication->run()
+REQUEST_URI=/uprice/backend/order/products/images/products/1363549679.jpg
